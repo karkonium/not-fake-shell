@@ -1,32 +1,3 @@
-// **********************************************************
-// Assignment2:
-// Student1: Shree Shah
-// UTORID user_name:shahsh16
-// UT Student #: 1005309104
-// Author:
-//
-// Student2: Clement Tran
-// UTORID user_name:tranclem
-// UT Student #:1005412144
-// Author:
-//
-// Student3: Anand Karki
-// UTORID user_name:karkiana
-// UT Student #:1005383531
-// Author:
-//
-// Student4: Anis Saha
-// UTORID user_name: sahaani2
-// UT Student #: 1005101284
-// Author:
-//
-//
-// Honor Code: I pledge that this program represents my own
-// program code and that I have coded on my own. I received
-// help from no one in designing and debugging my program.
-// I have also read the plagiarism section in the course info
-// sheet of CSC B07 and understand the consequences.
-// *********************************************************
 package driver;
 
 import java.lang.reflect.InvocationTargetException;
