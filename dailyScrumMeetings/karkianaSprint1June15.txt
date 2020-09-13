@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - worked on crc cards
+    - brain stormed how to implement the log command
+    - brain stormed where to use stack 
+    
+What do I plan to work in the next three days?
+    - Work on how to store the current directory user is in
+	- Work on console IO class to allow incorrect inputs to be validated 
+
+Am I blocked on anything?
+    - Whether to use a stack to store current directory or something more primitive

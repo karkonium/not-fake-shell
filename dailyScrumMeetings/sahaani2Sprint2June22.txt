@@ -1,0 +1,10 @@
+What did I work on in the last three days? 
+	- created base code for Command class
+	- created validateArgument method
+	- completed Driver parse method
+	- created Driver choose command method
+What I plan to work in the next three days?
+	- splitting parser and driver into separate classes (to avoid violation of SRP)
+	- validation overriding for command subclasses to validate type of arguments in addition to #
+Am I blocked on anything?  
+	- slow on argument validation

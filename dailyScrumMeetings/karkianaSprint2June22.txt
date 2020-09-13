@@ -1,0 +1,9 @@
+What did I work on in the last three days? 
+	- implemented method that returns node for a given path
+	- corrected addDirectoryNode and addFileNode so that they have a validation procedure prior to execution 
+	- created MkDir class
+What I plan to work in the next three days?
+	- Finish MkDir class
+	- Finish Stack feature of the shell
+Am I blocked on anything?  
+	- When to use try catch statements

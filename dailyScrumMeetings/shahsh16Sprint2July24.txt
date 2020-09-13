@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	- finished tree command class 
+	- added validation
+	- fixed some redirection
+b) What do I plan to work in the next three days?
+	- doing unit tests
+	- updating classes so everything happens in an execute method that returns a string
+c) Am I blocked on anything?
+	- how unit test work on save/load

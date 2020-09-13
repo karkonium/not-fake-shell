@@ -1,0 +1,13 @@
+Class name: Echo
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*checks existence of given file
+*creates new file with the given file name if necessary
+*overwrites contents of file if specified
+*appends contents to file if specified
+
+Collaborators:
+*FileIO
+*Display

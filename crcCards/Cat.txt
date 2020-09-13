@@ -1,0 +1,10 @@
+Class name: Cat
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*validate existence of given file
+*output contents of given file
+
+Collaborators:
+*Display

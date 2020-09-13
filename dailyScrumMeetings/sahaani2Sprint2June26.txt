@@ -1,0 +1,10 @@
+What did I work on in the last three days? 
+	- planned and created crc cards for network and get command class
+What I plan to work in the next three days?
+	- working on constructors for command classes
+	- creating static stack field for pushing and popping directories
+	- implementing pushd and popd commands
+	- Create validator class
+Am I blocked on anything?  
+	- validation overriding 
+	

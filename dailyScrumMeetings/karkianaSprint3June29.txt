@@ -1,0 +1,10 @@
+a) What did I work on in the last three days? 
+	- Finished Tree Class
+	- Completed implementation MkDir, Cd and Ls classes
+	- Corrected Echo and FileIO class
+	- Implemented Stack functionality, with Popd and Pushd classes
+b) What do I plan to work in the next three days?
+	- Debug application
+	- Add JavaDoc 
+c) Am I blocked on anything?
+	- nothing

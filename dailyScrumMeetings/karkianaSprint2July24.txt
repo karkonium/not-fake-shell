@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	- Fixed bug in Find Class
+	- Added appropriate error messages to public methods in tree
+b) What do I plan to work in the next three days?
+	- implement validation method for all command classes
+	- unit test tree, find, cp and mv
+	- create mock object for tree class
+c) Am I blocked on anything?
+	- nothing

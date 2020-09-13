@@ -1,0 +1,7 @@
+What did I work on in the last three days? 
+	- finished code needed for last sprint so no code written
+	- worked with team on better idea to implement working path for last few commands
+b) What do I plan to work in the next three days?
+	- plan on adding catch and exceptions, as well as assert
+c) Am I blocked on anything?  
+	- how to use catch and except statements 

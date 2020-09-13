@@ -1,0 +1,11 @@
+Class name: Man
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* verifies that specified command is defined
+* prints documentation for specified command if possible
+
+
+Collaborators:
+*Display

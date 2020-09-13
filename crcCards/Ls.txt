@@ -1,0 +1,11 @@
+Class name: Ls
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*outputs all files and directories in current working directory to console
+*prints file if specified
+*prints contents of directory if specified
+
+Collaborators:
+*Display

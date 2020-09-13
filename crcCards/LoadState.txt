@@ -1,0 +1,10 @@
+Class name: LoadState
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*loads a previous saved state 
+
+Collaborators:
+*validator
+*Display

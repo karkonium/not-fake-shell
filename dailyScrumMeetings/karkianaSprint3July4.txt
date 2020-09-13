@@ -1,0 +1,8 @@
+a) What did I work on in he last three days? 
+	- Organized classes into packages
+	- Fixed ls, cd and echo so that they can handle all inputs
+	- Fixed bugs in code
+b) What do I plan to work in the next three days?
+	- chilling
+c) Am I blocked on anything?
+	- nothing

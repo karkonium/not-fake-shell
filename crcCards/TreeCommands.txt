@@ -1,0 +1,8 @@
+Class name: TreeCommands
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*Displays the current Tree in a nice manner
+
+Collaborators:

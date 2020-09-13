@@ -1,0 +1,10 @@
+Class name: Driver
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Choose command to run using specified name, and pass arguments to command
+
+Collaborators:
+*ExceptionRepository 
+*Commands

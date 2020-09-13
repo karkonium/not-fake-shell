@@ -1,0 +1,10 @@
+Class name: FileIO
+Parent class:
+Subclasses:
+
+Responsibilities:
+*read, write and append to file
+*clear contents of file
+
+Collaborators:
+*Tree

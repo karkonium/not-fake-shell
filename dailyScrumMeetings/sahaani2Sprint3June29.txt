@@ -1,0 +1,8 @@
+What did I work on in the last three days? 
+	- worked on constructors for command classes
+	- wrote validation methods for string, dir, filename and int arguments
+What I plan to work in the next three days?
+	- compress valodator and create children validation classes
+	- remove static methods from Validate class
+Am I blocked on anything?  
+	- push and popd was implemented by Clement 

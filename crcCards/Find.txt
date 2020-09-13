@@ -1,0 +1,9 @@
+Class name: Find
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*Finds the path to the desired folder/file  
+
+Collaborators:
+*Display

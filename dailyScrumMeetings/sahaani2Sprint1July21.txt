@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+	- not as planned due to family trip
+	- changed driver to use hashtable to call commands 
+
+What do I plan to work on in the next three days?
+	- implementing testing for get command
+	- add validate option argument to validator class
+	- add method to command class to output to file
+	- create unit test for tree class
+	
+	
+Am I blocked on anything?  
+	- where to implement flag detection system

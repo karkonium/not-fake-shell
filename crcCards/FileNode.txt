@@ -1,0 +1,10 @@
+Class name: FileNode
+Parent class: Node
+Subclasses:
+
+Responsibilities:
+*create node
+*gives access to file data
+*changes file data
+
+Collaborators:

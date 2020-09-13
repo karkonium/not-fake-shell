@@ -1,0 +1,12 @@
+Class name: DirectoryNode
+Parent class: Node
+Subclasses:
+
+Responsibilities:
+*create node with an empty list
+*a method that returns a list
+*method to add to list
+*method to obtain list
+*method to remove something from list
+
+Collaborators:

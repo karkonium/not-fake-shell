@@ -1,0 +1,9 @@
+Class name: GetData
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*Gets the data from a file given by a url
+
+Collaborators:
+*FileIO

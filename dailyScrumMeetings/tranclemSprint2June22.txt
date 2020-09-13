@@ -1,0 +1,12 @@
+What did I work on in the last three days? 
+	- created most of code for ls
+	- created code for FileIO
+	- created code for Mkdir
+	- added code to node, directorynode, and fileNode
+	- fixed adding node code for tree
+What do I plan to work on in the next three days?
+	- finalizing code for ls
+	- check over code/ test code
+	- add exception code to exceptionrepository based on code i wrote
+Am I blocked on anything?  
+	- Confused on how current working directory will be passed to ls

@@ -1,0 +1,10 @@
+What did I work on in the last three days? 
+	- planned and created crc cards for network and get command class
+What do I plan to work on in the next three days?
+	- implementing code for get command
+	- implementing network class
+	- add validate option argument to validator class
+	- add method to command class to output to file
+	
+Am I blocked on anything?  
+	- not as of yet

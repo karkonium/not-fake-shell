@@ -1,0 +1,11 @@
+Class name: Node
+Parent class:
+Subclasses: DirectoryNode
+
+Responsibilities:
+*create node
+*gets name of file
+*change of name
+*get/set path
+
+Collaborators:

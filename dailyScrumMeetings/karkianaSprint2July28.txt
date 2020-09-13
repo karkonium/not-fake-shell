@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	- Did unit testing for Tree Class, MkDir Class
+	- Error handling for all Command classes
+	- Updated display class
+b) What do I plan to work in the next three days?
+	- chill
+c) Am I blocked on anything?
+	- nothing

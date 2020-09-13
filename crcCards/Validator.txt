@@ -1,0 +1,10 @@
+Class name: Validate
+Parent class: 
+Subclasses:
+
+Responsibilities:
+*check if argument is a valid integer
+*check if argument is a valid fileName (no illegal characters)
+*check if argument is a valid directory (no illegal characters)
+
+Collaborators:

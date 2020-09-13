@@ -1,0 +1,11 @@
+What did I work on in the last three days? 
+	- Pair coded with team members on the implementation of History and and Parser class
+	- No code due mid-terms
+What I plan to work in the next three days?
+	- Implement assert() statements in private methods
+	- Implement path validation method
+	- Finish J-Shell implementation, and fix the parsing of user input
+	- Finish Stack implementation
+	- Work on method that converts relative path to full path
+Am I blocked on anything?  
+	- using try and catch blocks

@@ -1,0 +1,10 @@
+Class name: Mkdir
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* converts relative directory to full directory if necessary 
+* creates a new directory with the given name at the given location
+
+Collaborators:
+*Display

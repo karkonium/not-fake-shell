@@ -1,0 +1,12 @@
+Class name: JShell
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Displays prompt for input
+*Reads user input from console
+*Displays all messages and statements to console
+
+Collaborators:
+*History
+*Display

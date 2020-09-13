@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	- fixing man command
+	- documentation
+	- fixing history command
+b) What do I plan to work in the next three days?
+	- final touches
+c) Am I blocked on anything?
+	- how '..' will work  

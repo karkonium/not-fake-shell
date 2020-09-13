@@ -1,0 +1,26 @@
+As a user I should be able to direct anything that a command outputs into a file							1hr
+As a user, I should be able to see all directories including subdirectories in a path I specify						2hr
+As a user, I should be able to move content from one location into another directory and delete the old content				2hr	
+As a user, I should be able to create a copy of a file and put it into a specified location						.5hr
+As a user, I should be able to create a copy of a folder and put it into a specified location						1hr
+As a user I should be able to see the contents of a file on my screen									.5hr	
+As a user I should be able to see the contents of multiple files on my screen								.5hr	
+As a user I should be able to retrieve the contents of any file from a given URL and put it into my current working directory		2hr
+As a user, I should be able to save my session before I quit										2hr
+As a user, I should be able to start off from my last saved session if I want 								2hr	
+As a user, I should be able to find a file at a certain path										1hr
+As a user, I should be able to find a folder at a certain path										1hr		
+As a user, I should be able to find a file at multiple different paths									1hr
+As a user, I should be able to find a folder at multiple different paths								1hr
+As a user, I should be able to see the contents of the entire file system 								1hr	
+As a user, I should be able to specify option(s) for the commands I provide to best suit my intentions	.5h
+As a user, I should be able to specify an option both before or after providing the arguments			.5h
+As a user, I should be able to check all the valid options of any given command							1h
+
+
+
+
+
+
+
+

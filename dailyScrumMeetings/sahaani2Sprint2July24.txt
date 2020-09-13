@@ -1,0 +1,18 @@
+What did I work on in the last three days? 
+	- converted Commands to abstract class and added execute method
+	- implemented execute for Cat, Cd, Echo and Find and tweaked code
+	( did not commit to avoid errors in other commands)
+	- created static flag class within commands to track flag arguments
+	(I decided that this provided more utility than implementing a validator method)
+	- made arguments an instance variable within commands
+	
+	
+What do I plan to work on in the next three days?
+	- making execute output a string
+	- implementing execute for other commands
+	- change argument validation
+	- unit testing
+	
+	
+Am I blocked on anything?  
+	- not as of yet

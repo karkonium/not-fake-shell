@@ -1,0 +1,9 @@
+Class name: Parser
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Parse user input into list of arguments
+
+Collaborators:
+*ExceptionRepository 

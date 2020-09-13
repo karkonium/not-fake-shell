@@ -1,0 +1,11 @@
+Class name: History
+Parent class: 
+Subclasses:
+
+Responsibilities:
+*adds commands
+*displays commands based on how many are wanted
+*size of command list
+
+Collaborators:
+*Display

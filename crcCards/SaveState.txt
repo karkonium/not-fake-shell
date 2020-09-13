@@ -1,0 +1,10 @@
+Class name: SaveState
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*Saves current program onto  a file
+
+Collaborators:
+*validator
+*Display

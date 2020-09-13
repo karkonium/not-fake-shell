@@ -1,0 +1,10 @@
+Class name: Cd
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*ensure given directory exists 
+*changes current working directory to given directory
+
+Collaborators:
+*Tree

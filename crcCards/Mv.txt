@@ -1,0 +1,8 @@
+Class name: Mv
+Parent class: Cp
+Subclasses:
+
+Responsibilities:
+*moves the desired file or folder to a desired path
+
+Collaborators:

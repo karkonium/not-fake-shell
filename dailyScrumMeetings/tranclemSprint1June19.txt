@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+	-Created basic of tree code
+	-Created code for two types of node
+		-Node and DirectoryNode
+What do I plan to work in the next three days?
+	- plan on implementing code for directory since tree is now done
+	- plan on implementing code for files
+		-overwriting text onto a file
+		-Deleting text in a file
+		-writing text onto file
+			
+Am I blocked on anything?  
+	- not as of now

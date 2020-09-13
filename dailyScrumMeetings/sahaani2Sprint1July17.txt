@@ -1,0 +1,16 @@
+What did I work on in the last three days? 
+	- not everything planned because of other project
+	- converted all methods within Parser and FileIO to instance methods
+	- created instances of FileIO and Parser where needed and replaced all static calls with 
+	instance calls
+	- added and completed unit test for Parser and Validator classes
+
+What do I plan to work on in the next three days?
+	- implementing testing for get command
+	- add validate option argument to validator class
+	- add method to command class to output to file
+	- create unit test for tree class
+	
+	
+Am I blocked on anything?  
+	- not as of yet

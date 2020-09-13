@@ -1,0 +1,8 @@
+What did I work on in the last three days? 
+	- Was studying for mid terms
+	- Worked with team to better some existing classes
+b) What do I plan to work in the next three days?
+	- plan on adding catch and exceptions cases
+	-Implement getter and setter methods for cwd in tree
+c) Am I blocked on anything?  
+	- Not as of right now

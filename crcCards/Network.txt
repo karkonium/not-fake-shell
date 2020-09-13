@@ -1,0 +1,10 @@
+Class name: Network
+Parent class:
+Subclasses: 
+
+Responsibilities:
+*validate existence of url
+*retrieve contents from url
+
+Collaborators:
+*None

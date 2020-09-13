@@ -1,0 +1,7 @@
+a) What did I work on in the last three days? 
+	- Finish implementation of recursive methods in tree class
+	- Implement mv, cp and tree commands 
+b) What do I plan to work in the next three days?
+	- Begin working on unit testing 
+c) Am I blocked on anything?
+	- nothing

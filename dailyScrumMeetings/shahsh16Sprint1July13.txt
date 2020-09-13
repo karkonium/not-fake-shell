@@ -1,0 +1,8 @@
+What did I work on in the last three days? 
+	- created get command
+	- brainstormed how to deal with recursive nature of some new commands
+What do I plan to work in the next three days?
+	- cp and mv classes
+	- cp and mv crc cards
+Am I blocked on anything?  
+	- how unit tests are going to work because we are running everything through contructors 

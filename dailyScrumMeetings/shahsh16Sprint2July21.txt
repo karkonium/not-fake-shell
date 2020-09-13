@@ -1,0 +1,8 @@
+What did I work on in the last three days? 
+	- created tree command
+	- added redirection to everything
+	- added validation to stuff that was missing it
+What do I plan to work in the next three days?
+	- unit tests 
+Am I blocked on anything?  
+	- how unit tests are going to work for commands like save, load 

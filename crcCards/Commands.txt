@@ -1,0 +1,14 @@
+Class name: Commands
+Parent class:
+Subclasses: Echo, Get, Cat, Pwd, Ls, Cd, History, Man
+
+Responsibilities:
+*Call appropriate command
+*Validate command and number of arguments
+*output to file if specified
+
+Collaborators:
+*Tree
+*ExceptionRepository 
+*Network
+*Validate

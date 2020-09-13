@@ -1,0 +1,7 @@
+What did I work on in the last three days? 
+	- Java doc for methods and classes
+	- Testing for code
+	- Fixing bugs/spelling mistakes 
+b) What do I plan to work in the next three days?
+	- end of project
+c) Am I blocked on anything?  

@@ -1,0 +1,10 @@
+Class name: Pushd
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*Add new directory onto stack
+*Change working directory to the one specified
+
+Collaborators:
+*Cd

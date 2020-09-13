@@ -1,0 +1,18 @@
+Class name: Tree
+Parent class:
+Subclasses: Directory
+
+Responsibilities:
+*initialize new tree root
+*add node to tree
+*traverse tree
+*search for node in tree
+*delete node
+*delete tree
+*get information from nodes in tree
+
+Collaborators:
+*ExceptionRepository
+*DirectoryNode
+*FileNode
+*Display

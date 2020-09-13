@@ -1,0 +1,7 @@
+What did I work on in the last three days? 
+	- Create unit test case for cat
+What do I plan to work in the next three days?
+	- Finish unit test case for cp if done
+	- implement code for cp command
+Am I blocked on anything?  
+	- not as of now

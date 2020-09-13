@@ -1,0 +1,9 @@
+What did I work on in the last three days? 
+	- created base code for man command
+	- created base code for echo command (exchanged task with partner)
+	- created base code for cat command
+What do I plan to work in the next three days?
+	- finalizing previous commands
+	- adding assert/exception clauses
+Am I blocked on anything?  
+	- how directory path is going to work is a bit of a concern

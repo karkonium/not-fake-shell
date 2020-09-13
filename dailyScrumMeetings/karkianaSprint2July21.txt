@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	- Updated getSubTree() method
+	- Implemented Find command
+	- Finished input validation for find command
+b) What do I plan to work in the next three days?
+	- create mock object for tree class
+	- unit test tree, find, cp and mv
+c) Am I blocked on anything?
+	- nothing

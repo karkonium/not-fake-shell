@@ -1,0 +1,58 @@
+//Sprint 1 Backlog.  
+July 11 to July 17
+
+Specific tasks to be accomplished:
+a) As a user I should be able to direct anything that a command outputs into a file
+b) As a user, I should be able to see all directories including subdirectories in a path I specify
+c) As a user, I should be able to move content from one location into another directory and delete the old content
+d) As a user, I should be able to create a copy of a file and put it into a specified location
+e). As a user, I should be able to create a copy of a directory and its subdirectories put it into a specified location
+f). As a user I should be able to see the contents of any files on my screen
+g). As a user I should be able to see the contents of multiple files on my screen
+h). As a user I should be able to retrieve the contents of any file from a given URL and put it into my current working directory
+
+
+These tasks are assigned as follows:
+a-1 - implement singleton design by creating one file system instance
+a-2 - make commands class an abstract class 
+a-3 - add method to put command output into an outfile if provided using both ‘>’ and ‘>>’
+a-4 - make sure outfile gets added to CWD if outfile is provided
+b-1 - create a method that performs recursion on current directory in Tree class and return directory-type of new mini-tree with all subdirectories
+b-2 - use above method in LS when prompted to display subdirectories of the tree it has
+b-3 - create unit test cases for tree
+c-1 - create MV class that completes the task of deleting content at old path and moving it to a new path
+c-2 - create CRC card for MV class and make it subclass of CP 
+c-3 - implement method to remove a node and everything in it
+c-4 - use method described in b-1 and put mini-tree at NEWPATH 
+c-5 -create unit test cases
+d-1 - create crc card for CP class
+d-2 - create CP class that completes the task of copying contents at path and putting it in new 
+         path
+d-3 - method that creates a new file with the same name and copies the contents into it
+d-4 - use Tree class to ensure paths exist and are valid
+d-5 - create unit test cases
+e-1 - method that creates a new folder 
+e-2 - uses method described in c-4 
+e-3 - create unit test cases
+f-1 - create unit test cases
+g-1 - create unit test cases
+h-1 - create get class, also create get CRC card
+h-2 - create networking package that has network class, also create network CRC card
+h-3 - create method that validates if the url provided leads to a .txt or .html file
+h-4 - create unit test cases 
+h-5 - implement method that takes the contents of the file from a URL and converts it into a string
+h-6 - implement method that creates a file in cwd with the contents of the file provided by the URL
+
+
+User: Anand
+Tasks: a-1, a-2, a-3 a-4 b-1 b-2 b-3
+
+User: Shree
+Tasks: c: 1-5, d: 1-2
+
+User: Clement
+Tasks: d-3, d-4, d-5, e-1, e-2, e-3, f-1
+
+
+User: Anis
+Tasks: g-1, h-1, h-2, h-3, h-4, h-5, h-6

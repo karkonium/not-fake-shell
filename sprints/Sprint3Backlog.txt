@@ -1,0 +1,87 @@
+//Sprint 2 Backlog.  
+June 27 to July 4
+
+Tasks from Sprint 1 which we will be addressing in this sprint:
+--None--
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I will be informed if I make a new directory that has the same name as a directory in the full 
+path specified so that I can make changes accordingly 
+b)  As a user, I can change the working directory to any directory that exists, so that I have access to all 
+existing directories. 
+c) As a user, I can change the working directory to itself so that I know which directory I am working in. 
+d) As a user, I can change the working directory back into the parent directory, without having to specify the 
+full path from root, so that I can quickly move between directories.
+e) As a user, I will be notified if I attempt to change the working directory into a file that is not a directory, 
+so that I may make changes accordingly.
+f) As a user, I can change the working directory into any directory that is in the working directory using a
+relative path, so that I may change directories quickly.  
+g) As a user, I should be able to see how the text prints onto the shell.                               	
+h) As a user, should be able to see contents of a directory at a path given by me                            
+i) As a user, should be able to see the path I gave if it points to a file                                    	
+j) As a user, should be able to see if the path I gave exists                                                    
+k) As a user, should be able to view the full path of the directory I am in                                	
+l) Should be able to save the current directory in a stack 	
+m) As a user, I would like to be able to easily access my previously visited working directories            
+n) As a user, I would like to have an easy way keep track of the most recent commands I have used												  
+o) As a user, I would like to be able to see the contents of any file given by me               
+p) As a user, I would like to display contents multiple files at once on the console       
+q) I would like to be able to differentiate file contents when using cat via a line break      
+r) As a user, I would like to be able to provide both relative and full paths when specifying directories    	
+	
+Specific tasks to be accomplished:
+a-1. Exception statements must be implemented in Tree Class
+a-2. Validate path for MkDir
+a-3. Implement getter and setter methods for cwd in tree class
+a-4. Ensure User doesn’t attempt to add two File or Directory Nodes with the same name in the same directory
+b-1. Base code and completion of Cd Class
+b-2. Ensure only valid path that leads to a directory Node can be accessed 
+b-3. Base code of Stack Class, need path storage 
+c-1. make sure self directory change is allowed in Cd class (no errors come up)
+d-1. implement action of taking user entry of ‘..’ to enter into directory before
+d-2. Ensure current directory also gets changed according to the user’s Cd entry
+e-1. Implement exception statements in Cd class so code does not crash when unknown path is 
+       entered
+f-1. Accept relative directory as input to change working directory --- implement ability to go into current
+directories contents in Cd class
+g-1. Finish implementation of file printing methods --- Implemented in past sprint because we finished 
+sprint2 work early
+h-1. Finish implementation of printing all child Nodes of a given directory node --- Implemented in past
+sprint because we finished sprint2 work early
+i-1. Given a particular node in the tree, return the path to that node from the root --- Implemented in past
+sprint because we finished sprint2 work early
+j-1. Add ability in Tree class to check if path given exists in tree (result in null doesn’t crash 
+      program)
+k-1. Ensure J-Shell loops and displays current working directory path to console after each user input
+k-2. Ensure Stack is aware of any path changes to ensure SRP is not broken by JShell
+l-1. Implement stack for pushd and popd commands
+l-2. implement PushD command Class
+m-1. implement PopD command Class
+m-2. ensure validation for popping from an empty stack
+n-1. Finish implementation of History class --- Implemented in past sprint because we finished sprint2 work 
+early
+o-1. Implement getter method which returns contents of file node --- Implemented in past sprint because we 
+finished sprint2 work early
+p-1. Parse input from user to separate multiple path inputs --- Implemented in past sprint because we finished 
+sprint2 work early
+p-2. Implement method which prints the contents of multiple files in one go --- Implemented in past sprint 
+because we finished sprint2 work early
+q-1. Format output of multiple files using line-breaks --- Implemented in past sprint because we finished 
+sprint2 work early
+r-1. Implement method which converts relative path to full path 
+
+
+These tasks are assigned as follows:
+
+User: Shree Shah 
+Tasks: n-1, q-1, p-1, p-2, o-1, b-1, c-1, d-1, d-2
+
+User: Clement Tran
+Tasks: g-1, h-1, i-1, a-4, a-3, a-2, b-3  
+ 
+User: Anis Saha
+Tasks: l-1, l-2, m-1, m-2, e-1, f-1 
+
+User: Anand Karki
+Tasks: a-1, b-2, j-1, k-1, k-2, r-1
+

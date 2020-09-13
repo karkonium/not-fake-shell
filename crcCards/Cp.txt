@@ -1,0 +1,9 @@
+Class name: Cp
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*Copies file/folder to desired path
+
+Collaborators:
+*Display

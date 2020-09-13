@@ -1,0 +1,56 @@
+//Sprint 2 Backlog.  
+July 18 to July 26
+
+*Some tasks carried over from last sprint such as mv and cp class tasks*
+
+Specific tasks to be accomplished:
+As a user, I should be able to save my session before I quit
+As a user, I should be able to start off from my last saved session if I want 
+As a user, I should be able to find a file at a certain path
+As a user, I should be able to find a folder at a certain path
+As a user, I should be able to find a file at multiple different paths
+As a user, I should be able to find a folder at multiple different paths
+As a user, I should be able to see the contents of the entire file system 
+
+These tasks are assigned as follows:
+a-1 - create save class and implement method to convert java objects into XML file
+a-2 - create unit test and test cases for save class
+a-3 - add in CRC card for save class
+a-4 - validate the user gives no arguments for this command
+a-5 - add javadoc documentation to class
+b-1 - create a method to load the last save state and implement method to convert XML file to 
+         java objects
+b-2 - create unit test and test cases for load class
+b-3 - add in CRC card for load class
+b-4 - validate the user gives no arguments for this command
+b-5 - add javadoc documentation to class
+c-1 - create find class as a subclass of commands class
+c-2 - create unit test and test cases for find class
+c-3 - add javadoc documentation to class
+c-4 - ensure find checks that key letter of f is given to find a file, recursively in directory 
+c-5 - ensure number of arguments given is valid for finding a file
+d-1 - create a method to find folder in find class
+d-2 - ensure find checks that key letter of d is given to find a file, recursively in directory 
+d-3 - ensure number of arguments given is valid for finding a folder
+e-1 - allow method above to check for directories in multiple directories  recursively (perhaps recursive method is a helper function called within for loop)
+e-2 - create test cases
+f-1 - allow method above to check for files in multiple directories recursively (perhaps recursive method is a helper function called within for loop)
+f-2 - create test cases
+g-1 - create tree class and implement method displaying entire file system contents in correct format
+g-2 - create unit test and test cases for tree class
+g-3 - add in CRC card for tree class
+g-4 - create mock object for file system in order to test tree, as well as other commands
+
+
+User: Anand
+Tasks: a-1, a-2, a-3, a-4, a-5 ,b-1,b-2
+
+User: Shree
+Tasks: b3-5,c1-3
+
+User: Clement
+Tasks: c4-5, d1-3, e1-2
+
+
+User: Anis
+Tasks: f1-2, g1-5

@@ -1,0 +1,9 @@
+Class name: Get
+Parent class: Commands
+Subclasses: 
+
+Responsibilities:
+*Get contents from url and save to a created file in the directory 
+
+Collaborators:
+*Tree

@@ -1,0 +1,9 @@
+What did I work on in the last three days? 
+	- did outline of JShell
+	- completed user prompt and exit
+	- completed History Class and all related methods
+What do I plan to work in the next three days?
+	- creating documentation to implement man CMD
+	- create base code for file class
+Am I blocked on anything?  
+	- not as of right now

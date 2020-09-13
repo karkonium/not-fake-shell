@@ -1,0 +1,9 @@
+What did I work on in the last three days? 
+	- no coding done due to midterm
+	- brainstormed on paper how to work with recursive function
+	- know how to implement get unit test
+What do I plan to work in the next three days?
+	- cp and mv classes
+	- unit tests for classes
+Am I blocked on anything?  
+	- how unit tests are going to work because we are running everything through contructors 

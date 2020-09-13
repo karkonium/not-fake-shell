@@ -1,0 +1,8 @@
+What did I work on in the last three days? 
+	- began implementing driver class
+	- began implementing parse argument method
+What do I plan to work in the next three days?
+	- quit method for driver
+	- planning Command Class
+	- implementing Command Class
+	- implementing argument count validator

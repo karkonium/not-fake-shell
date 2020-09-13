@@ -1,0 +1,7 @@
+What did I work on in the last three days? 
+	- brainstormed ideas for command parsing and command super class
+	- no code implemented due to midterms
+What do I plan to work in the next three days?
+	- plan on implementing Command Class and command/argument parsing 
+Am I blocked on anything?  
+	- not as of right now

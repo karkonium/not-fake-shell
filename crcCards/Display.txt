@@ -1,0 +1,8 @@
+Class name: Display
+Parent class:
+Subclasses:
+
+Responsibilities:
+*prints output onto screen
+
+Collaborators:

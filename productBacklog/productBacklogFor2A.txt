@@ -1,0 +1,57 @@
+- As a user, all of the commands should be available to me at all times, so that I may have full                 3 hour			
+functionality of the shell at all times. 													
+- As a user, I can see the current working directory, so I know where I am working.                              1 hour
+- As a user, I can keep using shell after having entered an invalid command, so that I may keep                0.5 hour
+working.    
+- As a user, I can see all the previous commands entered and their outputs on the shell so that                  0 hour
+I know what I have already done.
+- As a user, I can quit the shell regardless of what the current working directory is so that I can            0.1 hour
+quit the program at any moment.
+- As a user, I can quit the shell regardless of what is stored in the stack, so that I can quit the            0.1 hour
+program at any moment.
+- As a user, I can quit the shell regardless of what my previous commands were so that I can quit              0.1 hour
+the program at any moment.
+- As a user, I can make a directory in any directory, so that I can make the desired file hierarchy.             1 hour
+- As a user, I can make multiple directories from one command, so that I can quickly make a lot of               1 hour
+directories.
+- As a user, I can use a full path to specify exactly a directory, so that I can make a new                    0.5 hour
+directory where I want.
+- As a user, I can use a relative path from the current directory, without having to explicitly                0.2 hour 
+specify that I am doing so, to create a new directory
+- As a user, I will be informed if I make a new directory that has the same name as a directory in             0.1 hour
+the full path specified so that I can make changes accordingly
+- As a user, I can change the working directory to any directory that exists, so that I have access             1 hour
+to all existing directories.
+- As a user, I can change the working directory to itself.                                                    0.2 hour
+- As a user, my current working directory will not be changed until a specific command forces it to,            1 hour
+so that I know which directory I am working in.
+- As a user, I will be notified if I attempt to change the working directory into a directory that            0.2 hour
+does not exist, so that I may make changes accordingly.
+- As a user, I can change the working directory back into the parent directory, without having to             0.2 hour
+specify the full path from root, so that I can quickly move between directories.
+- As a user, I will be notified if I attempt to change the working directory into a file that is not	      0.5 hour
+ a directory, so that I may make changes accordingly.
+- As a user, I can change the working directory into any directory that is in the working directory             2 hour
+using a relative path, so that I may change directories quickly.
+- As a user, I should be able to overwrite text in a file.                                                      1 hour
+- As a user, I should be able to create a file and put desired text onto the file.                              2 hour
+- As a user, I should be able to add text onto an existing file.                                                1 hour
+- As a user, I should be able to see how the text prints onto the shell.                                        1 hour
+- As a user, I should be able to see the list of all the different commands.                                    1 hour
+- As a user, I should be able to read a description on how all commands work.                                   1 hour	
+- As a user, if I enter a command wrong. I should be able to see what is required for it to work               	2 hour
+- As a user, should be able to see files and directories in the current directory I am in                       2 hour	
+- As a user, should be able to see contents of a directory at a path given by me                                1 hour
+- As a user, should be able to see the path I gave if it points to a file                                       1 hour
+- As a user, should be able to see if the path I gave exists                                                    1 hour
+- As a user, should be able to view the full path of the directory I am in                                    0.5 hour
+- Should be able to save the current directory so I can go back to it, and then go into new directory           2 hour
+- As a user, I would like to be able to easily access my previously visited working directories                 1 hour
+- As a user, I would like to have an easy way keep track of the most recent commands I have used                1 hour
+- As a user, I would like to be able to specify how many commands to show in the history log                  0.5 hour
+- As a user, I would like the commands in the history log to be numbered for convenience                      0.5 hour
+- As a user, I would like to be able to see the contents of any file given by me                                1 hour
+- As a user, I would like to display contents multiple files at once on the console                           0.5 hour
+- I would like to be able to differentiate file contents when using cat via a line break                      0.5 hour
+- As a user, I would like to be able to provide both relative and full paths when specifying directories       1 hour
+- as a user, I should be prompted for new command each time until I exit
